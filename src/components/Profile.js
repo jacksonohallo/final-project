@@ -1,5 +1,5 @@
 import React from 'react';
-import {RiArrowRightCircleLine} from "react-icons/ri";
+import { RiArrowRightCircleLine } from "react-icons/ri";
 
 
 function Profile() {
@@ -7,7 +7,7 @@ function Profile() {
    <>
         <div className='profile-container'>
             <div className='profile'> 
-            <img id='profile_img' className='profile-pic' src='images/andrew.jpg' alt='Profile'/>
+            <img id='profile_img' className='profile-pic' src='images/jackson.png' alt='Profile'/>
             <p id='twitter' className='twitter-name'>Jackson Otieno</p>
             <p id='slack' className='slack-name'>jackson</p>
             </div>

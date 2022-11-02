@@ -2,7 +2,7 @@ import React from 'react';
 
 
 
-function Links() {
+function Link() {
   return (
     <>
       <div className='links'>
@@ -28,4 +28,4 @@ function Links() {
   )
 }
 
-export default Links;
+export default Link;
